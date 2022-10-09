@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Miniver&display=swap");
+/* setting the colors and font */
+h1 {
+  color: blue;
+}
+
+  
+  h3 {  
+    color: red
+}
+
+h1 { font-family: "Garamond", cursive;
+}
+
+
+/* setting the image width */
+.img {
+  width: 255px;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-10%, -10%);
+  color:white;
+}
+h2 {
+  color:orange;
+}
+    
+
